@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+body {
+  
+  background-color: #ADD8E6;}
+
+
+
+ .header{ 
+  position: relative;
+
+
+
+
+  opacity: .7; 
+  z-index: 1;
+ background-image: url("/Users/molliemcneel/Desktop/mcneel_coding/glitter.jpg");
+
+ height:400px;
+ background-position:center;
+}
+
+.photo{
+	position: center;
+	font: 'Avantgarde', sans-serif;
+  text-align:center;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.byline{
+font-family:'Avantgarde', sans-serif;
+  text-align:center;
+  font-size: 30px;
+}
+
+.bio{
+	position: center;
+}
+
+.caption{font-family: 'Avantgarde', sans-serif;
+  text-align:center;
+  font-size: 15px;
+  font-weight: 120;
+}
+
+.coleman{font-family: 'Avantgarde', sans-serif;
+  text-align:right;
+  font-size: 10px;
+  font-weight: 100;
+}
+
+
+h1{ color: #000000;
+  font-family: 'Avantgarde', sans-serif;
+  font-size: 100px;
+  line-height: 80px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+h2{font-family: 'Avantgarde', sans-serif;
+  text-align:center;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+h3{font-family:'Avantgarde', sans-serif;
+  text-align:left;
+  font-size: 15px;
+font-weight: 100}
+
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Avantgarde', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  font-size: large;
+  text-align: left;
+}
+
+
+
